@@ -17,6 +17,7 @@ public class Ejemplohit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Mi primer control de versiones");
+        System.out.println("Esto es una prueba de añadir codigo");
     }
     
 }
